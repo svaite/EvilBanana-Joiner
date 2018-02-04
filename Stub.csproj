@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\gorno\Desktop\vm\Stub.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DE8D351D-92D5-4AA5-ABC1-FB667D1F7CFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>WindowsApplication2</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class8.cs" />
+    <Compile Include="Class7.cs" />
+    <Compile Include="Class3.cs" />
+    <Compile Include="Class2.cs" />
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class0.cs" />
+    <Compile Include="GForm0.cs" />
+    <Compile Include="GAttribute0.cs" />
+    <Compile Include="%003CModule%003E.cs" />
+    <Compile Include="Class9.cs" />
+    <Compile Include="dummy_ptr\{4b68ba11-197b-4361-8029-5ae806378121}.cs" />
+    <Compile Include="dummy_ptr\{8773286b-cf90-4c8b-93ad-4343348e6425}.cs" />
+    <Compile Include="dummy_ptr\{a1c91d24-f569-4db2-8f8e-17c4086ad1d3}.cs" />
+    <Compile Include="dummy_ptr\{63f138c4-b4a7-4116-a5ea-8564ee937103}.cs" />
+    <Compile Include="dummy_ptr\{ea2e8c10-6d03-4879-95b5-02abdd727684}.cs" />
+    <Compile Include="WindowsApplication2\My\Resources\Resources.cs" />
+    <Compile Include="dummy\{f6fa9f2c-1bb4-4a25-99d3-37dff854716f}.cs" />
+    <Compile Include="dummy\{2834c31f-4382-4408-9c55-111ad7b2c8a0}.cs" />
+    <Compile Include="dummy\{d1ee08c0-a0bb-4685-9a5e-b488db69a2d0}.cs" />
+    <Compile Include="dummy\{8c069a79-532d-4c50-a502-c03e3a7d6386}.cs" />
+    <Compile Include="dummy\{2aec4591-75cc-4f91-869d-575ca89fe968}.cs" />
+    <Compile Include="dummy\{3950e9ca-630f-43cc-9107-22fded9f73b7}.cs" />
+    <Compile Include="dummy\{9b6d5afb-74d5-4df8-ad01-c80c29ac7e99}.cs" />
+    <Compile Include="dummy\{21b57cdb-7e7d-4375-89a5-e2869a1c6e29}.cs" />
+    <Compile Include="dummy\{a0959ee2-fee5-485c-9e8d-b658d21e06e8}.cs" />
+    <Compile Include="dummy\{6408a293-e767-474d-bbf2-59cf0d43e009}.cs" />
+    <Compile Include="dummy\{bc04d02b-3f25-4390-a3d6-a712c5241420}.cs" />
+    <Compile Include="dummy\{db418ca8-583a-429a-99c0-cf669a354e5f}.cs" />
+    <Compile Include="dummy\{9c536a3a-5cc3-4173-8aa5-582bb47c6061}.cs" />
+    <Compile Include="dummy\{05d52040-97d8-45b1-8749-30f188c7d2da}.cs" />
+    <Compile Include="dummy\{ae068c40-5fb4-40a7-b2ba-2752c4457121}.cs" />
+    <Compile Include="dummy\{787e2e6e-9f98-4347-9972-6dc4cacb759a}.cs" />
+    <Compile Include="dummy\{81b1476d-9b9b-49e1-b4a7-09d74b717d97}.cs" />
+    <Compile Include="dummy\{9d905abb-d073-4cfc-8ffb-5dc83edeb0ed}.cs" />
+    <Compile Include="dummy\{c3cfe864-ef70-4cd7-b309-9eeeb2380877}.cs" />
+    <Compile Include="dummy\{5a53ac4d-3c8a-427f-98a8-a661a4476cd3}.cs" />
+    <Compile Include="dummy\{b7eb3af7-5437-4327-b2af-45bfe06c01bc}.cs" />
+    <Compile Include="dummy\{7907d6ce-4984-4b7c-ad66-de7393fc38e8}.cs" />
+    <Compile Include="dummy\{d161917b-0555-449b-a0ec-287aca51ffc3}.cs" />
+    <Compile Include="dummy\{15899752-c4e0-4964-94eb-72f596f225f9}.cs" />
+    <Compile Include="dummy\{77848f32-0e34-4703-81e8-52386298d82d}.cs" />
+    <Compile Include="dummy\{308c1bc4-6196-4849-b9c4-1650f6574247}.cs" />
+    <Compile Include="dummy\{f41b7321-24fc-4c05-93a9-f59e896a328d}.cs" />
+    <Compile Include="dummy\{b5bc156f-e0c1-42c6-93ca-d82d2b3e4350}.cs" />
+    <Compile Include="dummy\{dbac947e-eae1-41d1-ab39-8b8b78ee76e5}.cs" />
+    <Compile Include="dummy\{41b1cd1d-b8ec-4452-8b8f-407ff1dec7dc}.cs" />
+    <Compile Include="dummy\{791922e5-4424-4964-a173-f8c71f993cbd}.cs" />
+    <Compile Include="dummy\{a51b1c05-53a1-4a1a-b42c-ddb0f40f52fd}.cs" />
+    <Compile Include="dummy\{2094e17e-cbdd-4a88-aedd-2fa9d3f0c008}.cs" />
+    <Compile Include="dummy\{2fd0fed8-4f2c-40d4-b9e5-69d1309a7335}.cs" />
+    <Compile Include="dummy\{22116a9d-e2fd-4ea9-8fc2-6cb04a8cde8e}.cs" />
+    <Compile Include="dummy\{9511e829-208c-4b26-8c69-796a2081808b}.cs" />
+    <Compile Include="dummy\{a6032ce5-a29a-4b70-84de-17776acd555d}.cs" />
+    <Compile Include="dummy\{b424fab9-329d-4191-82df-28917e417968}.cs" />
+    <Compile Include="dummy\{22396d1b-c535-4655-bc1b-067029793a7c}.cs" />
+    <Compile Include="dummy\{94dbb69b-837f-4fe4-8a83-438739a8e0bd}.cs" />
+    <Compile Include="dummy\{e413b58e-c400-41c0-9e7b-c371e28380d2}.cs" />
+    <Compile Include="dummy\{3d10cef5-3167-41de-8ac2-7768caf235a1}.cs" />
+    <Compile Include="dummy\{b0c0c370-8d53-4b05-afcf-754c043e6b31}.cs" />
+    <Compile Include="dummy\{3dab3b01-4008-4d4d-88c1-78b4fe02c18a}.cs" />
+    <Compile Include="dummy\{cf6106f6-9281-4e62-a710-b9451a2617c0}.cs" />
+    <Compile Include="dummy\{293af570-2d52-42d8-8e2c-094795d673cd}.cs" />
+    <Compile Include="dummy\{67f1fa2a-de1b-4e8c-bfda-f7d97f4fbf5b}.cs" />
+    <Compile Include="dummy\{23c26951-1ce8-461c-b29d-b168a110b7c1}.cs" />
+    <Compile Include="dummy\{e9b94e63-ae2b-4337-a7e9-44fd2a384ed4}.cs" />
+    <Compile Include="dummy\{e9a94f0b-8c9b-4a47-9c3e-2b8853b26ae4}.cs" />
+    <Compile Include="dummy\{a6bcd8a7-96de-4a79-b578-9e927fee1ac4}.cs" />
+    <Compile Include="dummy\{115c81f2-9d74-4776-9b97-ec3d8f95e723}.cs" />
+    <Compile Include="dummy\{0b28b428-5bba-46ed-aa2d-f2297a38f564}.cs" />
+    <Compile Include="dummy\{05aa6b27-e94c-4473-937c-951b353e8882}.cs" />
+    <Compile Include="dummy\{59fed3c7-b6ae-4e91-af24-0c080730bc1b}.cs" />
+    <Compile Include="dummy\{e1ed0469-2471-438f-9a1f-a8d9c672fccb}.cs" />
+    <Compile Include="dummy\{91f19846-b2f9-470c-8caa-e0fda07afaa5}.cs" />
+    <Compile Include="dummy\{843d683c-75b0-4039-a89d-a5b165a4fc70}.cs" />
+    <Compile Include="dummy\{32fe9c67-a69a-4ad5-a8e6-9584822037c6}.cs" />
+    <Compile Include="dummy\{b57963cf-da0b-41e8-985d-3aeeef3a57ed}.cs" />
+    <Compile Include="dummy\{d3e5a5c2-ba05-464c-95a6-e5581a7d07d4}.cs" />
+    <Compile Include="dummy\{1a6cb1ed-db03-4fe0-acb7-667b0b183c5c}.cs" />
+    <Compile Include="dummy\{966325e3-96f0-4932-a7f6-07bf517cc270}.cs" />
+    <Compile Include="dummy\{5a0b2745-de15-46d9-a791-7213b35b6b0c}.cs" />
+    <Compile Include="dummy\{622bba5f-86a8-4fa4-9088-3c9622023a0e}.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="WindowsApplication2\Resources.resx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
